@@ -5,6 +5,8 @@ Efficiently estimate a two-way fixed effects model based on Somaini and Wolak (2
 
 Algorithm to efficiently estimate a two-way fixed effects model based on Somaini and Wolak (2015) Use twfem With STATA 18
 
+https://www.youtube.com/watch?v=EqRPbOBVMdI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
